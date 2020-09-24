@@ -9,4 +9,4 @@ I was raised in Minnesota, land of 10,000 lakes.
 
 People always ask why Minnesota, and oddly enough, 
 there's no real answer except that an aunt lived here (product of chain migration -- take that 45!)
-![Chain Migration] (/Users/mahadertamene/Box Sync/Berkeley Epi PhD/Fall 2020 Courses/SOCIOL 273L-Computational Social Science Part A/Group Projects/mahadertamene.github.io/chain migration.jpg)
+![Chain Migration] (/chain migration.jpg)
