@@ -7,10 +7,10 @@ width = "500" height = "300"
 style = "float: left; border: 15px solid white">
 
 
-I lived in three continents by the age of 6.
+I lived in three continents by the age of 6. <br>
 
 Oldest of 5 (3 biological, 2 adopted later in life)
-I was raised in Minnesota, land of 10,000 lakes. 
+I was raised in Minnesota, land of 10,000 lakes. <br>
 <img src = "Minnesota.jpg"
 alt = ""
 width = "300" height = "300" 
